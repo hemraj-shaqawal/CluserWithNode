@@ -1,4 +1,4 @@
 # CluserWithNode
 
-# npm i
-# npm start app.js
+#instal: npm i
+#Start: npm start app.js
