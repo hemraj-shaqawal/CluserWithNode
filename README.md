@@ -1,4 +1,4 @@
 # cluster With Node
 
-# instal: npm i
+# install: npm i
 # Start: npm start app.js
